@@ -10,5 +10,12 @@ form {
 fieldset {
   width: 31.25rem;
   display: grid;
+  grid-template-columns: repeat(4, 8rem);
+}
+
+fieldset div {
+  display: grid;
+  grid-column-start: 2;
+  grid-column-end: 4;
 }
 
