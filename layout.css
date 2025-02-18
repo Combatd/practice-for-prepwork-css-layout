@@ -23,3 +23,7 @@ legend {
   border: 1px solid black;
   margin-left: 3.5rem;
 }
+
+label, p {
+  text-align: center;
+}
