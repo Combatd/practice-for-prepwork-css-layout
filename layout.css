@@ -27,3 +27,17 @@ legend {
 label, p {
   text-align: center;
 }
+
+#status-div {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+#date-div {
+  grid-column-start: 3;
+  grid-column-end: 4;
+}
+
+#radio-wrapper {
+  text-align: center;
+}
