@@ -6,3 +6,9 @@ form {
   display: flex;
   margin: auto;
 }
+
+fieldset {
+  width: 31.25rem;
+  display: grid;
+}
+
