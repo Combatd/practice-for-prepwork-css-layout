@@ -19,3 +19,6 @@ fieldset div {
   grid-column-end: 4;
 }
 
+legend {
+  border: 1px solid black;
+}
