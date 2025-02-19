@@ -41,3 +41,27 @@ label, p {
 #radio-wrapper {
   text-align: center;
 }
+
+#radio-div {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  font-size: 20px;
+}
+
+#radio-div, p {
+  margin: 0 auto;
+}
+
+#radio-div input {
+  margin-left: 10px;
+}
+
+#checkbox-div {
+  display: flex;
+}
+
+button {
+  width: 5rem;
+  margin: 1rem auto;
+}
